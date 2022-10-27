@@ -25,7 +25,7 @@ public class Ex3_Dados {
         System.out.println();
 
         System.out.print("Face: ");
-;        for(i = 0; i < face.length; i++){
+        for(i = 0; i < face.length; i++){
             if(i < 5){
                 System.out.print(face[i] + ", ");
             }
